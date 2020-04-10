@@ -1,8 +1,9 @@
 <?php
-require 'vendor/autoload.php';
+// require 'vendor/autoload.php';
 
-use Carbon\Carbon;
+// use Carbon\Carbon;
  
-$date = Carbon::now();
+// $date = Carbon::now();
 
-echo $date->toDayDateTimeString();
+// echo $date->toDayDateTimeString();
+phpinfo();
